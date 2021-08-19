@@ -1,4 +1,4 @@
-# cky-bus
+# wks-mtr
 Quick website to allow myself to check MTR times easier.
 
 ## License
